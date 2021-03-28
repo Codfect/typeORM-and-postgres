@@ -1,1 +1,1 @@
-# typeORM-and-postgres
+# typeORM-postgres
